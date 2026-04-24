@@ -1,4 +1,4 @@
-# Multi-Tenant Task Manager (RBAC)
+# Multi-Tenant Task Manager with RBAC
 
 A full-stack, multi-tenant task management system built to demonstrate strict data isolation and Role-Based Access Control (RBAC). Designed as a scalable Software-as-a-Service (SaaS) architecture, this application ensures that organizations can manage their own tasks securely without data leakage.
 
